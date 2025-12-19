@@ -1,5 +1,5 @@
 
-<img align="center" src="https://github.com/shadowfightbeast/shadowfightbeast/blob/main/assets/ThisPinIsAllAboutCoding.gif?raw=true" alt="coding_gif" />
+<img align="center" src="https://github.com/shadowfightbeast/shadowfightbeast/blob/master/assets/ThisPinIsAllAboutCoding.gif?raw=true" alt="coding_gif" />
 <h1 align="center">Hi 👋, I'm Mithilesh Kumar Singh</h1>
 
 
