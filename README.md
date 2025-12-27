@@ -1,39 +1,51 @@
-
-<img align="center" src="https://github.com/shadowfightbeast/shadowfightbeast/blob/master/assets/ThisPinIsAllAboutCoding.gif?raw=true" alt="coding_gif" />
-<h1 align="center">Hi 👋, I'm Mithilesh Kumar Singh</h1>
-
-
+  <img align="center" src="https://github.com/shadowfightbeast/shadowfightbeast/blob/master/assets/ThisPinIsAllAboutCoding.gif?raw=true" alt="coding_gif" />
+  <h1 align="center">Hi 👋, I'm Mithilesh Kumar Singh</h1>
 
 ## About Me
 
-<h3 align="center">Software Engineer from India</h3> 
+<h3 align="center">Software Engineer from India</h3>
 
-🔭 **I’m currently working on:** <br>
-I'm currently learning by actively practicing problem-solving exercises and applying those skills to real-world challenges in development projects, while improving my problem-solving skills, mastering the SDLC cycle, and building a technical stack for the retail fisheries industry with the Seafresh project.
+🔭 **About Me:** <br>
+I'm a passionate and versatile full-stack developer with a strong background in creating robust and scalable software. I have 2 years of experience as a software engineer and 6 months of experience as an SDE intern at Velocity, a fintech startup, where I honed my skills in Fintech product development. Currently, I’m working as a Software Engineer at Vidatt, where I continue to grow and contribute to exciting projects. I completed my BTech in Computer Science and Engineering in 2023, and I'm skilled in both frontend and backend development.
 <br><br>
 
-👯 **I’m looking to collaborate on:**  <br>
-Fullstack projects and product building over technical stacks. 
+👯 **I’m looking to:** <br>
+Fullstack projects and product building over technical stacks.
 <br><br>
 
-🌱 **I'm currently learning:** <br>
-AWS and DevOps functionality to improve my backend strength.
-<br><br>
+📫 **How to reach me:** mithileshkumarsingh39@gmail.com
 
-💬 **Ask me about:**  <br>
-JavaScript, React, Node.js, AWS, and any general software development questions.
-<br><br>
+To me, being an engineer means crafting something beautiful and impactful. I’m a passionate developer with expertise in Software Engineering, dedicated to solving real-life problems with innovative technological solutions. I love tackling business challenges and transforming them with technology. Always eager to learn and grow, I believe in the power of technology to enhance any idea’s potential. As a computer engineer, my goal is to create, innovate, and implement solutions that not only solve current problems but also pave the way for a more efficient and advanced future. I'm committed to using my skills to turn complex challenges into opportunities for growth and improvement.
 
-⚡ **Fun fact:**  <br>
-I love to observe life in motion.
+## Experience
 
- 📫 **How to reach me:** mithileshkumarsingh39@gmail.com
+### Vidatt | Software Engineer (SWE) | Mar 2024 – Present
 
-To me, being an engineer means crafting something beautiful and impactful. I’m a passionate developer with expertise in Software Engineering, dedicated to solving real-life problems with innovative technological solutions. I love tackling business challenges and transforming them with technology. Always eager to learn and grow, I believe in the power of technology to enhance any idea’s potential. As a computer engineer, my goal is to create, innovate, and implement solutions that not only solve current problems but also pave the way for a more efficient and advanced future. I'm committed to using my skills to turn complex challenges into opportunities for growth and improvement. 
+_Bengaluru, Karnataka_
+
+- Built **10+ custom dashboards** and **20+ new features** for a scalable portal; migrated to **React Query** for efficient data fetching and caching.
+- Implemented **multi-camera live stream support** with a custom video player featuring real-time switching and seamless live view experience.
+- Integrated **50+ APIs** with dynamic front-end components, implemented **RBAC**, and added resilient **WebSocket** support.
+- Designed and implemented a **test bench application** for object detection, text detection, and OCR models with performance benchmarking.
+- Worked on **deep learning models (YOLO, PaddleOCR)**; fine-tuned and tested models for real-world video analytics.
+- Refactored a **microservice** handling multi-layer request-response translation APIs for a data center project.
+- Led frontend development for a **compressor inspection platform**, including 10+ dashboards and automated routine management.
+- Developed the **Vidatt website** from scratch with custom 3D visuals, dynamic dashboards, and an integrated blog system.
+
+### Velocity (FinTech) | Software Developer Engineer (SDE Intern) | Jun 2023 – Dec 2023
+
+_Bengaluru, Karnataka_
+
+- Developed **REST APIs** and asynchronous services as part of the LaaS team, deploying core controllers to production.
+- Automated **test case generation** and integrated **Rspec runner with GitHub Actions**, increasing developer productivity by **30%**.
+- Created **AWS Lambda functions** to process various webhooks for Flywheel services.
+- Developed a **bulk update service** with CSV input, custom validations, and transactional safety, improving update reliability by **95%**.
+- Refactored legacy code and wrote test cases, increasing test coverage from **3% to 50%**.
 
 ## Technical Skills
 
 ### Languages
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -47,6 +59,7 @@ To me, being an engineer means crafting something beautiful and impactful. I’m
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks
+
 ![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Gin](https://img.shields.io/badge/gin-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -59,6 +72,7 @@ To me, being an engineer means crafting something beautiful and impactful. I’m
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 ### Deployments and Tools
+
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
@@ -69,11 +83,17 @@ To me, being an engineer means crafting something beautiful and impactful. I’m
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Databases
+
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Others
+
+- **CS Fundamentals:** Operating Systems, Analysis of Algorithms, Data Structures & Algorithms (DSA), Networking
+- **AI/ML:** Artificial Intelligence, Machine Learning
 
 ## Projects
 
@@ -85,18 +105,25 @@ To me, being an engineer means crafting something beautiful and impactful. I’m
 - Implemented a worker service in Go to consume jobs, process code execution, and persist results to PostgreSQL.
 - Integrated JWT-based authentication, user problem history, problem dashboard and a responsive React UI for seamless user experience.
 
-<!-- 
-### [Bahano](https://businesskosh.in/)
-This project aims to combat fraudulent practices in team hiring. Business owners often offer signing bonuses to attract teams, but employees may collect these bonuses from multiple businesses without actually joining any. Our secure network platform tackles this issue. Upon joining a team, employees submit ID verification. The system then notifies all businesses who offered bonuses, allowing them to recoup funds if needed. Additionally, integrating with government ID verification systems strengthens legitimacy checks. This network fosters transparency, protecting both businesses and legitimate job seekers.
--->
+### Social Chat App | React, Firebase, JavaScript, OAuth | Jan 2022
+
+- Designed functionality for users to create and participate in public groups, facilitating real-time conversations and community interaction.
+- Added a “Last Seen” feature to indicate users’ most recent activity, enhancing the user experience.
+- Implemented a comprehensive Google authentication system for user login via Google accounts.
+- Demonstrated proficiency in Firebase services, utilizing features such as authentication, Cloud Firestore, and Real-time Database for reliable data storage and retrieval.
+
+## Education
+
+### Bikaner Technical University | 2019 – 2023
+
+**Bachelor of Technology in Computer Science Engineering**
 
 ## Contact With Me:
 
-<p align="center">
- <a href="https://www.linkedin.com/in/mithilesh-kumar-singh-05a613212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mithilesh Kumar Singh" height="30" width="40" /></a>
-  <a href="https://leetcode.com/u/mithileshsingh/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dipang_leetcode" height="30" width="40" />
+  <p align="center">
+  <a href="https://www.linkedin.com/in/mithilesh-kumar-singh-05a613212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mithilesh Kumar Singh" height="30" width="40" /></a>
+    <a href="https://leetcode.com/u/mithileshsingh/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dipang_leetcode" height="30" width="40" />
+    </a>
+  <a href="https://www.geeksforgeeks.org/profile/mithileshkumarsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dipang_gfg" height="30" width="40" />
   </a>
-<a href="https://www.geeksforgeeks.org/profile/mithileshkumarsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dipang_gfg" height="30" width="40" />
- </a>
-</p>
-
+  </p>
