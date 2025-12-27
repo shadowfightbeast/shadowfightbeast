@@ -105,7 +105,7 @@ _Bengaluru, Karnataka_
 - Implemented a worker service in Go to consume jobs, process code execution, and persist results to PostgreSQL.
 - Integrated JWT-based authentication, user problem history, problem dashboard and a responsive React UI for seamless user experience.
 
-### Social Chat App | React, Firebase, JavaScript, OAuth | Jan 2022
+### [Social Chat App](https://github.com/shadowfightbeast/whatsapp-clone) | React, Firebase, JavaScript, OAuth | Jan 2022
 
 - Designed functionality for users to create and participate in public groups, facilitating real-time conversations and community interaction.
 - Added a “Last Seen” feature to indicate users’ most recent activity, enhancing the user experience.
